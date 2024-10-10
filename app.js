@@ -1,1 +1,2 @@
-alert("fuck you!");
+
+alert("hello any one!");
